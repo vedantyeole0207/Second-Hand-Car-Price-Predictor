@@ -236,4 +236,3 @@ jupyter nbconvert --to script 067_Vedant_Yeole.ipynb
 
 The project successfully demonstrates how machine learning can estimate used car prices from structured features. Ensemble models such as Random Forest and Gradient Boosting yield robust performance with good interpretability and minimal preprocessing effort.
 
-Would you like me to now convert this report directly into a downloadable `README.md` file?
